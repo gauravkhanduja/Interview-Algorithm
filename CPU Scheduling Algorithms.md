@@ -1,4 +1,4 @@
-Tôi sẽ lần lượt soạn lý thuyết, cài đặt các thuật toán định thời CPU (CPU Scheduling) và một số ví dụ trên spoj.com, hackerrank:
+Ghi lý thuyết, cài đặt các thuật toán định thời CPU (CPU Scheduling) và một số ví dụ trên spoj.com, hackerrank:
 + FCFS (First come, first serve)
 + SJF (Shortest Job Fisrt hay còn gọi là Shortest Job Next)
 + SRTF (Shortest Remaining Time First)
