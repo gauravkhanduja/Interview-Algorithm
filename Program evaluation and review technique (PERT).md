@@ -20,7 +20,7 @@ STT | Tên công việc | Công việc cần làm trước | Thời gian hoàn t
 8|Trình, thẩm định, phê duyệt dự án đầu tư xây dựng|7|
 9|Thành lập ban QLDA hoặc thuê tư vấn QLDA|8|
 10|Xin giấy phép xây dựng|7, 8|
-11|Lựa chọn nhà thầu khảo sát xây dựng, nhà thầu thiết kế, nhà thầu thấm tra thiết kế|10|
+11|Lựa chọn nhà thầu khảo sát xây dựng, nhà thầu thiết kế, nhà thầu thấm tra thiết kế|8, 9|
 12|Lập thiết kế các bước tiếp theo (thiết kế kỹ thuật và thiết kế bản vẽ thi công)|11|
 13|Tổ chức thấm định và phê duyệt thiết kế kỹ thuật, thiết kế bản vẽ thi công và tổng dự toán|7, 11, 12|
 14|Lựa chọn nhà thầu thi công xây dựng|13|
